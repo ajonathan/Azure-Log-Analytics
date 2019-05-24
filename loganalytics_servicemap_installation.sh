@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# install Log Analytics and Service Map on a Linux VM
+# version 1.0
+
 # Log Analytics Variables
 LAWS="Workspace ID"
 LAKEY="Workspace key"
