@@ -1,1 +1,1 @@
-# Azure-Log-Analytics
+# Azure Log Analytics
